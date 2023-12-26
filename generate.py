@@ -5,7 +5,7 @@ import urllib.request
 import random
 
 site = 'https://www.wurthshop.cn'
-sitemaps = ['/sitemap.xml']
+sitemaps = ['/sitemap.xml,/sitemap1.xml,/sitemap2.xml,/sitemap3.xml,/sitemap4.xml,/sitemap5.xml']
 
 result = []
 bingData = {}
